@@ -1,0 +1,166 @@
+body{
+    background-image: url("Photos/MainBack_Gif.gif");
+    
+}
+.CenterForm_UnderLink{
+    color: #afafaf;
+    font-size: 12px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.BtnFoEnterCenterSignIn{
+    color: #fff;
+    margin-left:50px;
+    width: 200px;
+    height: 60px;
+}
+
+.CenterDiv{
+    color: #afafaf;
+    position: absolute;
+    margin-left: 630px;
+    margin-top: 200px;
+    font-size: 22px;
+
+
+}
+.centerSecnodPartSecondDiv{
+    margin-left: 350px;
+
+}
+.newlogindialog_BetaSubtitleWithQR_hnv-G{
+    font-size:300px ;
+
+}
+.CenterForm{
+position: absolute;
+}
+#SmallerTextId{
+font-size: 5px;
+
+}
+.noWrap{
+    white-space: nowrap; /* Переносов в тексте нет */
+
+}
+       
+.Enter_Using_NameOfAccaunt{
+    color: #1999ff;
+    font-weight: 500;
+}
+
+#SmallerTextId{
+    font-size: medium;
+}
+.newInputDialog_TextInput1{
+    border-radius: 2px;
+    color: #fff;
+    padding: 10px;
+    background-color: #32353c;
+    outline: none;
+    font-size: 15px;
+    grid-area: input;
+    border: 1px solid #32353c;
+}.newInputDialog_TextInput2{
+    border-radius: 2px;
+    color: #fff;
+    padding: 10px;
+    background-color: #32353c;
+    outline: none;
+    font-size: 15px;
+    grid-area: input;
+    border: 1px solid #32353c;
+}
+.ColorGreyForBackground{
+    
+    background-color: #32353c;
+}
+.BtnFoEnterCenterSignIn{
+    position: relative;
+    background: linear-gradient(90deg, #06BFFF 0%, #2D73FF 100%);
+    background-image: linear-gradient(90deg, rgb(6, 191, 255) 0%, rgb(45, 115, 255) 100%);
+   
+}
+.CenterDiv{
+    position: absolute;
+}
+.newlogindialog_Login_ZOBYq .newlogindialog_QRSection_2ZDyS .newlogindialog_ShowQRLink_-lvk- {
+    text-align: center;
+    text-decoration-line: underline;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 24px;
+    color: #afafaf;
+    padding: 12px 0px;
+    cursor: pointer;
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+.CenterForm_UnderLink{
+font-size: small;
+margin-left: 35px;
+}
+.newlogindialog_BetaTag_pYvWM{
+    color:#1999ff;
+}
+.newlogindialog_JoinBetaButton_3Pmq8{
+color:#fff;
+background-color:#595a5e ;
+font-size: medium;
+}
+.newlogindialog_ShowQRLink{
+    font-size: medium;
+    color:#595a5e;
+
+}
+.BottomElem{
+    margin-left: 680px;
+    margin-top: 680px;
+
+    
+
+}
+.BottomElem1{
+    color:#b8b6b4;
+}
+.q1{
+    position: absolute;
+    
+    margin-left:650px;
+    margin-top: 700px;
+}
+#qw{
+    color: #b8b6b4;
+}
+.bt{
+    margin-left: 60px;
+    background-color: #0c0e10;
+    color: white;
+
+}
+.q2{
+    position: absolute;
+    
+    margin-left:860px;
+    margin-top: 700px;
+}
+.q3{
+    border: #fff;
+    position: absolute;
+    height: 50px;
+    weight:250px;
+    background-color: #0c0e10;
+    color: white;
+    margin-left:1050px;
+    margin-top: 720px;
+}
+
+
+/* {
+    color: #afafaf;
+    font-size: 12px;
+    text-decoration: underline;
+    cursor: pointer;
+} */

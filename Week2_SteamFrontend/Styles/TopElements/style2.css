@@ -1,0 +1,50 @@
+.GreenBtn{
+    background-color: #5c7e10;
+    color: #fff;
+    font-size: medium;
+    border-radius: 3px;
+
+}
+.topElements{
+    margin-top: -40px;
+margin-left: 400px;
+}
+
+.topElements_2{
+    margin-left: 1200px;
+    margin-top: 0px;
+
+}
+.TopButtons{
+    background-color: #171a21;
+    color:#b8b6b4;
+}
+.TopButtons2{
+    background-color: #171a21;
+color:#fff;
+}
+#btmbtn{
+    border-color: #fff;
+    font-size: larger;
+    margin-left: 300px;
+    margin-bottom: 1350px;
+}
+#bastards{
+margin-bottom: px;
+}
+.BottomElem1{
+    /* margin-left: 1200px;
+    margin-top: 100px */
+}
+.qwerty{
+    margin-left: 800px;
+    margin-top: 650px;
+}
+.q1{
+    color:white;
+
+}
+.poh{
+    width: 15%;
+}
+
